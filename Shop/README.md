@@ -16,5 +16,5 @@ Running the project
 * download phpMyAdmin 5.2.1
 * Import database from store.sql from Database file.
 * Run WAMP and open web page from browser: http://localhost/Shop/index.php
-
+* You can check different pages from Screenshots file.
 
