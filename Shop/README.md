@@ -11,7 +11,9 @@ Features
 Running the project 
 -------------------
 
-* Install WAMP
+* Install xmapp (install Apache distribution containing MariaDB, PHP and Perl)
+* Install MySQL 8.0 version or above
+* download phpMyAdmin 5.2.1
 * Import database from store.sql file.
 * Run WAMP and open web page from browser: http://localhost/Shop/index.php
 
